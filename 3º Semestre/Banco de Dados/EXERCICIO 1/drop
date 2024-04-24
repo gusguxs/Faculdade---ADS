@@ -1,0 +1,7 @@
+DROP TABLE detalhesCompra;
+DROP TABLE compras;
+DROP TABLE clientes;
+DROP TABLE livros;
+DROP TABLE enderecos;
+DROP TABLE assunto;
+DROP TABLE editora;

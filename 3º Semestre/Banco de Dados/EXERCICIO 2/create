@@ -1,0 +1,5 @@
+\i create_empresa.sql
+\i create_linha.sql
+\i create_motorista.sql
+\i create_onibus.sql
+\i create_viagem.sql

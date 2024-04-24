@@ -1,0 +1,7 @@
+\i insert_assunto.sql
+\i insert_clientes.sql
+\i insert_compras.sql
+\i insert_enderecos.sql
+\i insert_editora.sql
+\i insert_livros.sql
+\i insert_detalhesCompra.sql

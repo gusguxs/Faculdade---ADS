@@ -1,0 +1,5 @@
+DROP TABLE viagem;
+DROP TABLE onibus;
+DROP TABLE motorista;
+DROP TABLE linha;
+DROP TABLE empresa;

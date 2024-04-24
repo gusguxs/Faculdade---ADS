@@ -1,0 +1,7 @@
+\i create_editora.sql
+\i create_assunto.sql
+\i create_enderecos.sql
+\i create_livros.sql
+\i create_clientes.sql
+\i create_compras.sql
+\i create_detalhesCompra.sql
